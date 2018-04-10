@@ -7,3 +7,5 @@ web/assets/*
 web/runtime/*
 composer.lock
 web/upload/*
+vendor/*
+config/db.php
