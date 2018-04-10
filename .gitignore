@@ -1,0 +1,9 @@
+Thumbs.db
+composer.phar
+phpunit.phar
+tests/_output/*
+tests/_support/_generated
+web/assets/*
+web/runtime/*
+composer.lock
+web/upload/*
